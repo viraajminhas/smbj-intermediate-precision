@@ -1,0 +1,8 @@
+gate decision on record: FAIL
+groups: 15 headline: 7 sessions: 33
+STEP all 15: R 1.592 CI [1.2657429262752398, 1.8527513475850135] N2 p 0.0005 (null R95 1.066); positive tau2 12/15
+STEP headline: R 1.503 N2 p 0.0010; positive 6/7; clusters {'Delta rounds 1,4': [True, True], 'Delta rounds 2,3': [True], 'Delta rounds 3,4': [False], 'Beta May/June': [True, True, True]}
+PE composition removes -0.021051000936751052; PC [True, True, True, True, True, True, True]
+consistency: s_I^2 0.0266 vs tau2 + S/n_eff 0.0304; J 12.1
+PRIMARY 3: NOT EVALUATED (branch B) | 37 s
+EXIT 0

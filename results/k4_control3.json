@@ -1,0 +1,18 @@
+{
+ "gauss": {
+  "median_tau": 0.2135,
+  "median_icc": 0.749,
+  "median_F": 1.43
+ },
+ "argmax": {
+  "median_tau": 0.2121,
+  "median_icc": 0.852,
+  "median_F": 1.5
+ },
+ "medianofmed": {
+  "median_tau": 0.1806,
+  "median_icc": 0.983,
+  "median_F": 7.94
+ },
+ "note": "Control 3 of PREREGISTRATION.md (estimator sensitivity), printed but not saved by the 2026-08-17 run; rerun 2026-10-07 from an unchanged copy of run_metrology.py writing to a scratch folder."
+}

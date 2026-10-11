@@ -1,0 +1,10 @@
+{
+ "observed_sI": 0.16315582715560253,
+ "trace_null_p95": 0.0398411027206386,
+ "trace_null_median": 0.025891402888247553,
+ "block_null_p95": 0.06989791534422889,
+ "block_null_median": 0.04736948957205207,
+ "block": 100,
+ "n_null": 200,
+ "ratio_obs_over_block_p95": 2.334201618919576
+}

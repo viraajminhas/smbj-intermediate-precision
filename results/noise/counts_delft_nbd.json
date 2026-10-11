@@ -1,0 +1,44 @@
+[
+{
+"run": "NBD-1/1/",
+"files": 10000,
+"kept": 9351,
+"blocks": 187
+},
+{
+"run": "NBD-1/2/",
+"files": 1380,
+"kept": 1333,
+"blocks": 26
+},
+{
+"run": "NBD-2/0_1uM/",
+"files": 10000,
+"kept": 9345,
+"blocks": 186
+},
+{
+"run": "NBD-2/10uM/",
+"files": 2321,
+"kept": 2267,
+"blocks": 45
+},
+{
+"run": "NBD-2/1uM/",
+"files": 10000,
+"kept": 9708,
+"blocks": 194
+},
+{
+"run": "NBD-3/1/",
+"files": 10000,
+"kept": 9957,
+"blocks": 199
+},
+{
+"run": "NBD-3/2/",
+"files": 10000,
+"kept": 9890,
+"blocks": 197
+}
+]

@@ -1,0 +1,50 @@
+[
+{
+"run": "Piezo/2-OS/23-2-2023",
+"files": 10000,
+"kept": 9991,
+"blocks": 199
+},
+{
+"run": "Piezo/2-OS/sample1",
+"files": 42294,
+"kept": 10000,
+"blocks": 200
+},
+{
+"run": "Piezo/2-OS/sample2",
+"files": 33521,
+"kept": 10000,
+"blocks": 200
+},
+{
+"run": "Piezo/SMe-2OS/Sample1",
+"files": 20000,
+"kept": 10000,
+"blocks": 200
+},
+{
+"run": "Piezo/SMe-2OS/sample2",
+"files": 157887,
+"kept": 10000,
+"blocks": 200
+},
+{
+"run": "LC/2-OS in-situ/8-2-2023",
+"files": 10000,
+"kept": 9994,
+"blocks": 199
+},
+{
+"run": "LC/2-OS in-situ/15-2-2023",
+"files": 462,
+"kept": 461,
+"blocks": 9
+},
+{
+"run": "LC/2-OS in-situ/20-2-2023",
+"files": 10000,
+"kept": 9985,
+"blocks": 199
+}
+]

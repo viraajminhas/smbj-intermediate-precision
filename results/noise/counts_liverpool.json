@@ -1,0 +1,14 @@
+[
+{
+"run": "MnPARA/300 mV/",
+"files": 1778,
+"kept": 1730,
+"blocks": 34
+},
+{
+"run": "MnPARA/300 mV_2/",
+"files": 1015,
+"kept": 870,
+"blocks": 17
+}
+]

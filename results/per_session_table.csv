@@ -1,0 +1,38 @@
+group,set,session,bias_mV,gain_nA_per_V,ramp_rate,n_traces,median_log10G,bootstrap_se,drift,spread_iqr,yield,round_or_date,role
+Delta/MM1/100/10,1,Delta_WT T478K_Bias 100mV_R1,100,10,20,1375,-3.74835,0.01661,0.10906,1.36241,0.9753,round 1,headline single-duplex
+Delta/MM1/100/10,1,Delta_WT T478K_Bias 100mV_R4,100,10,20,1032,-3.50754,0.03022,0.06836,1.39467,0.8876,round 4,headline single-duplex
+Delta/MM1/30/10,1,Delta_WT T478K_Bias 30mV_R2,30,10,20,1179,-3.42259,0.02134,0.07259,1.36476,0.9415,round 2,headline single-duplex
+Delta/MM1/30/10,1,Delta_WT T478K_Bias 30mV_R3,30,10,20,1369,-3.1672,0.02826,0.18808,1.64138,0.8999,round 3,headline single-duplex
+Delta/MM2/100/10,1,Delta_MM2 T478K'_Bias 100mV_R1,100,10,20,1381,-4.01702,0.0204,0.07179,1.46512,0.9652,round 1,headline single-duplex
+Delta/MM2/100/10,1,Delta_MM2 T478K'_Bias 100mV_R4,100,10,20,1746,-3.82735,0.02342,0.02154,1.59047,0.9622,round 4,headline single-duplex
+Delta/PM/30/10,1,Delta_target T478K_Bias 30mV_R3,30,10,20,1698,-2.84951,0.02262,0.06727,1.43536,0.8922,round 3,headline single-duplex
+Delta/PM/30/10,1,Delta_target T478K_Bias 30mV_R4,30,10,20,1498,-2.94644,0.02433,0.00511,1.59771,0.8885,round 4,headline single-duplex
+Delta/all3/100/10,2,Delta_All_Bias 100mV_R1,100,10,20,1539,-3.94747,0.01742,0.06675,1.45969,0.9532,round 1,secondary mixture
+Delta/all3/100/10,2,Delta_All_Bias 100mV_R2,100,10,20,1898,-3.34818,0.03669,0.51324,1.887,0.9463,round 2,secondary mixture
+Delta/all3/100/10,2,Delta_All_Bias 100mV_R4,100,10,20,1869,-4.02007,0.0207,0.27959,1.61022,0.9786,round 4,secondary mixture
+Delta/no_target/100/10,2,Delta_T478T and T478K'_Bias 100mV_R1,100,10,20,1632,-3.90812,0.0169,0.01162,1.42857,0.9534,round 1,secondary mixture
+Delta/no_target/100/10,2,Delta_T478T and T478K'_Bias 100mV_R2,100,10,20,1959,-3.76488,0.01691,0.02723,1.41413,0.975,round 2,secondary mixture
+Delta/no_target/100/10,2,Delta_T478T and T478K'_Bias 100mV_R4,100,10,20,1599,-4.05216,0.03523,0.07659,1.38081,0.9637,round 4,secondary mixture
+NY/MM1/100/10,1,"100mVbias Amplifier 10nAperV SR 10kHz mismatch 1_June 2, 2021 B",100,10,20,2073,-3.55679,0.05542,0.08596,1.22663,0.8027,2021-06-02,headline single-duplex
+NY/MM1/100/10,1,"100mVbias Amplifier 10nAperV SR 10kHz mismatch 1_May 5, 2021",100,10,20,2814,-3.18079,0.02163,0.18931,1.53819,0.9016,2021-05-05,headline single-duplex
+NY/MM2/300/10,1,"300mVbias Amplifier 10nAperV SR 10kHz mismatch 2_June 3, 2021",300,10,20,2472,-4.06047,0.01212,0.13022,1.09787,0.9118,2021-06-03,headline single-duplex
+NY/MM2/300/10,1,"300mVbias Amplifier 10nAperV SR 10kHz mismatch 2_May 6, 2021",300,10,20,2881,-4.1872,0.00966,0.08067,1.21232,0.9861,2021-05-06,headline single-duplex
+NY/MM3/100/10,1,"100mVbias Amplifier 10nAperV SR 10kHz mismatch 3_June 4, 2021",100,10,20,2178,-3.59468,0.01828,0.12552,1.30108,0.8453,2021-06-04,headline single-duplex
+NY/MM3/100/10,1,"100mVbias Amplifier 10nAperV SR 10kHz mismatch 3_May 7, 2021 B",100,10,20,2356,-3.81067,0.02382,0.07844,1.32176,0.8739,2021-05-07,headline single-duplex
+NY/all4/300/10,2,300mVbias with all targets,300,10,10,2601,-4.21302,0.01317,0.01822,1.21944,0.9277,not recorded,secondary mixture
+NY/all4/300/10,2,300mVbias with all targets August 13,300,10,10,2343,-4.1169,0.01265,0.08135,1.25416,0.9582,not recorded,secondary mixture
+NY/no_PM/200/10,2,200mVbias with all targets except PM,200,10,10,2439,-3.96511,0.01358,0.09365,1.23762,0.9106,not recorded,secondary mixture
+NY/no_PM/200/10,2,200mVbias with all targets except PM August 25,200,10,10,2265,-3.98337,0.01257,0.02858,1.32664,0.9064,not recorded,secondary mixture
+UK/M1M2/100/10,2,UK_M1M2_Amp 10nAV_RampRate 10_Bias 100mV_Sample f 10kHz_R3,100,10,10,2115,-3.65139,0.01809,0.15802,1.36676,0.9357,round 3,secondary mixture
+UK/M1M2/100/10,2,UK_M1M2_Amp 10nAV_RampRate 10_Bias 100mV_Sample f 10kHz_R4,100,10,10,2278,-3.06193,0.0369,0.313,1.64179,0.9324,round 4,secondary mixture
+UK/M1M2/200/10,2,UK_M1M2_Amp 10nAV_RampRate 10_Bias 200mV_Sample f 10kHz_R5,200,10,10,2437,-4.08626,0.01024,0.00591,1.14588,0.9668,round 5,secondary mixture
+UK/M1M2/200/10,2,UK_M1M2_Amp 10nAV_RampRate 10_Bias 200mV_Sample f 10kHz_R6,200,10,10,2191,-4.07276,0.01317,0.03114,1.20123,0.953,round 6,secondary mixture
+UK/M1M2PM/100/10,2,UK_M1M2PM_Amp 10nAV_RampRate 10_Bias 100mV_Sample f 10kHz_R3,100,10,10,2503,-3.67509,0.01525,0.05852,1.31402,0.9449,round 3,secondary mixture
+UK/M1M2PM/100/10,2,UK_M1M2PM_Amp 10nAV_RampRate 10_Bias 100mV_Sample f 10kHz_R7,100,10,10,2132,-3.70894,0.01458,0.08377,1.21893,0.9428,round 7,secondary mixture
+UK/M1M2PM/200/10,2,UK_M1M2PM_Amp 10nAV_RampRate 10_Bias 200mV_Sample f 10kHz_R1,200,10,10,3064,-3.91722,0.01151,0.26923,1.2763,0.9452,round 1,secondary mixture
+UK/M1M2PM/200/10,2,UK_M1M2PM_Amp 10nAV_RampRate 10_Bias 200mV_Sample f 10kHz_R5,200,10,10,2609,-4.26071,0.00861,0.05556,1.02314,0.9793,round 5,secondary mixture
+UK/M1M2PM/200/10,2,UK_M1M2PM_Amp 10nAV_RampRate 10_Bias 200mV_Sample f 10kHz_R7,200,10,10,2467,-4.00892,0.0104,0.00592,1.1417,0.966,round 7,secondary mixture
+UK/MM1/150/10,1,UK_Mismatch1_Amp 10nAV_RampRate 10_Bias 150mV_Sample f 10kHz_R3,150,10,10,2485,-3.56101,0.01791,0.16066,1.37032,0.9312,round 3,"excluded: same round, ramp rate differs"
+UK/MM1/150/10,1,UK_Mismatch1_Amp 10nAV_RampRate 3_Bias 150mV_Sample f 10kHz_R3,150,10,3,498,-3.55568,0.02895,0.18988,1.23017,0.9859,round 3,"excluded: same round, ramp rate differs"
+UK/PM/100/1,1,UK_PerfectMatch_Amp 1nAV_RampRate 20_Bias 100mV_Sample f 10kHz_R5,100,1,20,501,-4.62585,0.02998,0.08266,1.41855,1.0,round 5,"excluded: same round, ramp rate differs"
+UK/PM/100/1,1,UK_PerfectMatch_Amp 1nAV_RampRate 3_Bias 100mV_Sample f 10kHz_R5,100,1,3,2537,-4.37082,0.01287,0.13748,1.20317,1.0,round 5,"excluded: same round, ramp rate differs"

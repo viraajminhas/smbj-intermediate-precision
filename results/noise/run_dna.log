@@ -1,0 +1,19 @@
+counts written: sessions 64 kept traces 120053 of 204830
+within-session set: 58 sessions with >= 1000 kept traces
+per-session analysis done 13 s
+PRIMARY 1  V_T 2.603 (CI [2.32448770420984, 2.857626924208403]) shuffle p 0.0005 null p95 1.078 | V_P 2.793 p 0.0020
+   session-equal gammaW_T: [0.0383, 0.0476, 0.0476, 0.0491, 0.0479, 0.0512, 0.0528, 0.0478, 0.0453, 0.0532, 0.0516, 0.0476, 0.0508, 0.0534, 0.0549, 0.0537, 0.0514, 0.0515, 0.0517, 0.0481]
+   pairs per lag: [2238, 2180, 2122, 2064, 2006, 1948, 1890, 1832, 1774, 1716, 1658, 1600, 1542, 1484, 1426, 1368, 1310, 1252, 1194, 1136] sessions per lag: [58, 58, 58, 58, 58, 58, 58, 58, 58, 58, 58, 58, 58, 58, 58, 57, 56, 55, 53, 53]
+   nugget scaling (expect 2.0, 0.5): {25: 1.9610589308118311, 100: 0.5161731427210765}
+   PA A1: V 4.176 shuffle p95 1.058 clears True | excess removed by regression 0.20977092428738076
+   PA A2: V 2.643 shuffle p95 1.139 clears True | excess removed by regression 0.9653142276231121
+C:\Projects\SMBJ_Metrology\bt\noise\noise_process.py:371: RuntimeWarning: All-NaN slice encountered
+  m4 = np.array([np.nanmedian(t) for t in tr4]); c04.append(nugget(np.nan_to_num(m4, nan=np.nanmedian(m4)), K, nperm=50))
+   PA A4 ceiling-censored V 2.154
+   PF: V after dropping first quarter 2.410 (shuffle p95 1.078)
+GATE (headline): G 8.374 vs g95 8.944; L 97 traces (boot CI 55..374); c1 0.0271 c0 0.0185; power 0.89; PD pass fractions {'rw': 0.038, 'frac': 0.692, 'trend': 0.0}  ->  FAIL
+   headline gammaW_T: [0.0312, 0.0363, 0.0408, 0.0418, 0.0414, 0.0445, 0.0429, 0.0427, 0.0451, 0.0387, 0.0447, 0.0403, 0.0419, 0.0498, 0.0465, 0.0474, 0.0541, 0.0482, 0.0499, 0.0514]
+ALLAN: noise types {'white': 55, 'undetermined': 3} median slope -0.74 k* counts {None: 24, 50: 13, 100: 7, 10: 2, 200: 10, 20: 2} HDEV/ADEV long median 0.96
+DESIGN (headline, n = 1000 traces): n_eff 6.1 of 20 blocks, inflation 1.81
+wrote results_dna.json; 2495 s
+EXIT 0

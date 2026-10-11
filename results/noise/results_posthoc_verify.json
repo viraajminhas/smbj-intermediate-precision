@@ -1,0 +1,129 @@
+{
+ "per_session_V": {
+  "quartiles": [
+   1.78,
+   2.31,
+   2.91
+  ],
+  "above_1": 56,
+  "clear_own_p95": 51,
+  "n": 58
+ },
+ "A4_consistent_V": 2.3264792132547076,
+ "A3_fraction_removed_blocklevel": 0.33606251517517705,
+ "quantile_movement": {
+  "max": {
+   "drift_sd_ratio_median": 0.03011580103470815,
+   "drift_corr_median": -0.6499202688300797
+  },
+  "q90": {
+   "drift_sd_ratio_median": 0.9910160017635948,
+   "drift_corr_median": 0.7322984072822241
+  },
+  "median": {
+   "drift_sd_ratio_median": 1.0,
+   "drift_corr_median": 1.0
+  },
+  "q10": {
+   "drift_sd_ratio_median": 0.6518325668795146,
+   "drift_corr_median": 0.7707763764031823
+  },
+  "min": {
+   "drift_sd_ratio_median": 0.24979415473628175,
+   "drift_corr_median": 0.38886170665960806
+  },
+  "end": {
+   "drift_sd_ratio_median": 0.5623890341579441,
+   "drift_corr_median": 0.7178269691787502
+  }
+ },
+ "tunnelling_class_slope": {
+  "median": 0.16970466130083037,
+  "q25": 0.029778028246032866,
+  "q75": 0.46304653800949785,
+  "n_sessions": 57
+ },
+ "inflation": {
+  "median": 3.1797359180777134,
+  "min": 1.2206201548686837,
+  "max": 6.160909748374238,
+  "process_se_1000": 0.0873301405753029,
+  "boot_se_median": 0.022196121473982457,
+  "process_se_median": 0.07115754866346806,
+  "neff_1000_modelfree": 6.114184797514987,
+  "neff_1000_model": 7.855123221085244,
+  "sI_over_process_se": 1.8664804490890359,
+  "drift_share_of_sI2_stationary": 0.28704706435703886
+ },
+ "gate_all58": {
+  "G": 36.15396796389401,
+  "g95": 10.365159541143514,
+  "L": 52.440312610149675,
+  "power": 1.0,
+  "pd": {
+   "rw": 0.013333333333333334,
+   "frac": 1.0,
+   "trend": 0.0
+  }
+ },
+ "R_alt": {
+  "R": 1.5920014790819677,
+  "frac_R95": 1.4871625017331576,
+  "frac_p": 0.008333333333333333,
+  "rw_median": 2.250513858137297,
+  "rw_p05": 1.6386435378225794,
+  "group_bootstrap_ci": [
+   1.3056506173893487,
+   1.8505717946789801
+  ],
+  "headline_direct_mean_square": 0.024989115108151293,
+  "sI2": 0.026569000000000002
+ },
+ "allan": {
+  "slope_le50_median": -0.8375486950315356,
+  "slope_gt50_median": -0.5244343248929795,
+  "adev200_over_white_median": 2.05838056157262,
+  "adev200_over_white_iqr": [
+   1.77,
+   2.6
+  ],
+  "slope_quartiles": [
+   -0.81,
+   -0.74,
+   -0.61
+  ],
+  "kstar_50_200": 30,
+  "kstar_none": 24
+ },
+ "pah_by_instrument": {
+  "Piezo": {
+   "runs": [
+    "Piezo/2-OS/23-2-2023",
+    "Piezo/2-OS/sample1",
+    "Piezo/2-OS/sample2",
+    "Piezo/SMe-2OS/Sample1",
+    "Piezo/SMe-2OS/sample2"
+   ],
+   "V": [
+    1.12,
+    1.04,
+    1.03,
+    1.56,
+    1.04
+   ],
+   "clears": 1
+  },
+  "LC": {
+   "runs": [
+    "LC/2-OS in-situ/8-2-2023",
+    "LC/2-OS in-situ/20-2-2023"
+   ],
+   "V": [
+    1.43,
+    1.3
+   ],
+   "clears": 2
+  }
+ },
+ "nbd_V_P": 1.8134431819162422
+}

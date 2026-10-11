@@ -1,0 +1,82 @@
+{
+ "res": [
+  {
+   "n_pores": 782,
+   "radius": 50.41776773959583,
+   "sem": 0.19065738795175124,
+   "locprec": 3.2684485,
+   "date": "181123",
+   "file": "SNAP_GLOX-35mMMEA_181123_10_sml.csv"
+  },
+  {
+   "n_pores": 165,
+   "radius": 51.14807118122954,
+   "sem": 0.39075158272961874,
+   "locprec": 3.178638,
+   "date": "181123",
+   "file": "SNAP_GLOX-35mMMEA_181123_11_sml.csv"
+  },
+  {
+   "n_pores": 679,
+   "radius": 50.76002362422645,
+   "sem": 0.20304268561878097,
+   "locprec": 3.3747615,
+   "date": "181123",
+   "file": "SNAP_GLOX-35mMMEA_181123_9_sml.csv"
+  },
+  {
+   "n_pores": 295,
+   "radius": 51.13304360832774,
+   "sem": 0.23581982285871975,
+   "locprec": 3.5374395,
+   "date": "181214",
+   "file": "SNAP_GLOX-35mMMEA_181214_6_sml.csv"
+  },
+  {
+   "n_pores": 362,
+   "radius": 51.15229750476634,
+   "sem": 0.21529290521737054,
+   "locprec": 3.4745665,
+   "date": "181214",
+   "file": "SNAP_GLOX-35mMMEA_181214_7_sml.csv"
+  },
+  {
+   "n_pores": 312,
+   "radius": 50.670191160568805,
+   "sem": 0.23337089772340094,
+   "locprec": 3.3297,
+   "date": "181214",
+   "file": "SNAP_GLOX-35mMMEA_181214_8_sml.csv"
+  },
+  {
+   "n_pores": 640,
+   "radius": 51.6646402811195,
+   "sem": 0.2852211412525544,
+   "locprec": 3.849472,
+   "date": "190208",
+   "file": "SNAP_GLOX-35mMMEA_190208_1_sml.csv"
+  },
+  {
+   "n_pores": 802,
+   "radius": 51.78903611435894,
+   "sem": 0.3486522959257528,
+   "locprec": 3.829241,
+   "date": "190208",
+   "file": "SNAP_GLOX-35mMMEA_190208_2_sml.csv"
+  },
+  {
+   "n_pores": 893,
+   "radius": 51.07207797275244,
+   "sem": 0.32766162033474455,
+   "locprec": 3.8451955,
+   "date": "190208",
+   "file": "SNAP_GLOX-35mMMEA_190208_3_sml.csv"
+  }
+ ],
+ "between": 0.3776537074144315,
+ "within": 0.34389324339933836,
+ "sem": 0.270052259956966,
+ "locprec": 3.5208291666666667,
+ "ratio_within": 1.0981713501590653,
+ "ratio_sem": 1.3984467579520061
+}
